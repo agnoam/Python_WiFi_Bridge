@@ -53,6 +53,6 @@ JUST PLUG AND PLAY
 #### Based On
 
 This project based on @awkman/pywifi repository
-See more info here: [pywifi repository](https://github.com/awkman/pywifi/README.md)
+See more info here: [pywifi repository](https://github.com/awkman/pywifi)
 
 **Free Software**
