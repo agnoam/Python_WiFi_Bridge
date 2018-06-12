@@ -8,7 +8,7 @@ Python_WiFi_Bridge created to handle WiFi manipulation by Command line (cmd / te
 # How to run this library ?
 
   Just put download this repository and run in cmd / terminal
-  `` python WiFi_Bridge.py <command> ``
+  `` python Bridge.py <command> ``
 # Commands
 
 ## -scan
