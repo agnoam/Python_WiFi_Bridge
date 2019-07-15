@@ -32,7 +32,7 @@ connect function based on scan function results
     python Bridge.py -connect <SSID> <Password>
     
 ## -status
--status has no parameters, it gives you your Wireless Lan antena status. 
+-status has no parameters, it gives you your Wireless LAN antena status. 
 Which can be:
 - DISCONNECTED
 - SCANNING
